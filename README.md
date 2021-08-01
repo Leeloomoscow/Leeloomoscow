@@ -3,7 +3,7 @@
 ## Меня зовут Александра 
 ## Я на пути к Junior Java Developer
 
-![](https://pxhere.com/ru/photo/1407325)
+
 
 ![](https://komarev.com/ghpvc/?username=your-github-Leeloomoscow)
 
