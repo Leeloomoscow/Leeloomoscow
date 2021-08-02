@@ -1,11 +1,10 @@
+![](https://komarev.com/ghpvc/?username=your-github-Leeloomoscow)
+
 
 # ⚡️ Приветствую!
 ## Меня зовут Александра 
 ## Я на пути к Junior Java Developer
 
-
-
-![](https://komarev.com/ghpvc/?username=your-github-Leeloomoscow)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Leeloomoscow&show_icons=true&theme=radical)
 
