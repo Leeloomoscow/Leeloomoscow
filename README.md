@@ -9,8 +9,8 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Leeloomoscow&show_icons=true&theme=radical)
 
 
-- Мой новый день начинается с Java 8
-- Буда рада дельным советам
+👩‍💻 Мой новый день начинается с Java 8 
+👍 Буда рада дельным советам
 
 
 ### Stack
