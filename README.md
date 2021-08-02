@@ -7,12 +7,11 @@
 
 ![](https://komarev.com/ghpvc/?username=your-github-Leeloomoscow)
 
-- Мой новый день начинается с Java 8
-- Буда рада дельным советам
-
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Leeloomoscow&show_icons=true&theme=radical)
 
 
+- Мой новый день начинается с Java 8
+- Буда рада дельным советам
 
 
 ### Stack
