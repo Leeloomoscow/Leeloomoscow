@@ -28,4 +28,3 @@
 
 ### Контакты для связи:
 [<img align="left" width="22px" alt="javeoff | Telegram" src="https://simpleicons.org/icons/telegram.svg" />](https://t.me/Leeloo_moscow) 
-[<img align="left" width="22px" alt="javeoff | Instagram" src="https://simpleicons.org/icons/instagram.svg" />](https://instagram/Leeloo__star)
