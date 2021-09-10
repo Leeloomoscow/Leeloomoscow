@@ -1,7 +1,7 @@
 ![](https://komarev.com/ghpvc/?username=your-github-Leeloomoscow)
 ![Codewars stats](https://www.codewars.com/users/Leeloomoscow/badges/micro)
 
-# ⚡️ Приветствую!
+# Приветствую!
 ## Я на пути к Junior Java Developer
 
 
