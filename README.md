@@ -14,7 +14,7 @@
 
 
 ### Stack
-- Language: Java 8
+- Language: Java
 
 ### Skills
 - Любознательная и дружелюбная
