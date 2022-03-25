@@ -8,7 +8,7 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Leeloomoscow&show_icons=true&theme=radical)
 
 
-В свободно время решаю задачки на Codewars (ниже репозитории с названиями "Codewars")
+В свободное время решаю задачки на Codewars (ниже репозитории с названиями "Codewars")
 
 Я создаю 1 репозиторий = 1 задача/изученная тема
 
