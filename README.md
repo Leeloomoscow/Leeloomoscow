@@ -2,7 +2,6 @@
 ![Codewars stats](https://www.codewars.com/users/Leeloomoscow/badges/micro)
 
 # Приветствую!
-## Я в команде QA Automation Java
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Leeloomoscow&show_icons=true&theme=radical)
